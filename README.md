@@ -9,3 +9,6 @@ Future Improvements:
 - Scripts into `scripts/` folder
 - Class-based and function-only scripts into a `modules/` folder
 - Data read/write abstracted into a separate module (within `modules/`) e.g. `datastore.py`
+- Currently only AUD-native or AUD/USD conversion is permitted, so utilising all CCY pairs offered by the [RBA FX Rates Page](https://www.rba.gov.au/statistics/historical-data.html) would be the logical next step. This will open up the ability to utilise this app for international investment CGT analysis.
+- Automate the scraping of the [RBA FX Rates Page](https://www.rba.gov.au/statistics/historical-data.html) so that the .xlsx exports don't need to be manually downloaded and hard-coded into the `cgt_calculator.py` file.
+
