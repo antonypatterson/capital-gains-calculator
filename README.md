@@ -1,6 +1,6 @@
 # capital-gains-calculator
 
-Targeted towards Australia-centric tax methods. A way to try and reduce the tediousness of calculating capital gains within excel by working within a more versatile package (i.e pandas in python) to acheive.
+Targeted towards Australia-centric tax assumptions. A way to try and reduce the tediousness of calculating capital gains within excel by working within a more versatile package (i.e pandas in python) to acheive.
 
 Still a work in progress but one day hope to make this a fully fledged application. This is merely a hobby project at the moment, but would like to have this as a way to distribute a more robust CGT calculation to everyday punters who have basic script-execution experience, without necessarily needing to peep into the underlying code. Although there are websites that offer a fully fledged service, they are either restrictive with their "free" offerings, or expensive for their "premium" plans. 
 
